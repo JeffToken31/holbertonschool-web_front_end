@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #2a2a2a; /* Darker shade for body text */
+}
+
+a {
+  color: #2a2a2a; /* Darker shade for links */
+}
+
+.visually-hidden {
+  display: none;
+}
+
+.card-category {
+  color: #e74c3c; /* Different color for card categories */
+}
+
+.section-tagline {
+  color: #e74c3c; /* Different color for section tagline */
+}
