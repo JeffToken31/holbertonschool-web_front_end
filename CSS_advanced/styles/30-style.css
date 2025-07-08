@@ -715,6 +715,7 @@ ul.row {
 }
 
 .card-work .card-title a::after {
+  position: sticky;
   top: 0;
   bottom: 0;
   right: 0;
