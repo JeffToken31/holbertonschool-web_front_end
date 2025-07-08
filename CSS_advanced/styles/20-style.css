@@ -547,6 +547,6 @@ ul.row {
 
 .row::after {
   clear: both;
-  content: none;
+  content: "";
   display: table;
 }
