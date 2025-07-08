@@ -712,9 +712,11 @@ ul.row {
   display: block;
   text-decoration: none;
   padding-top: 45%;
+  position: inherit;
 }
 
 .card-work .card-title a::after {
+  position: absolute;
   top: 0;
   bottom: 0;
   right: 0;
